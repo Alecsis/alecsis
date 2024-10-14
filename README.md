@@ -1,7 +1,15 @@
 ## Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/alecsis/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=alecsis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+<p><img align="left" src="https://github-readme-stats-tau-seven-69.vercel.app/api/top-langs?username=alecsis&show_icons=true&locale=en&layout=compact" alt="alecsis" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-tau-seven-69.vercel.app/api?username=alecsis&show_icons=true&locale=en" alt="alecsis" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alecsis&" alt="alecsis" /></p>
 <!--
 **Alecsis/alecsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
