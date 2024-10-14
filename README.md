@@ -16,7 +16,7 @@
   <br>
   💻 I love learning new ideas!
   <br>
-  📚 I’m currently developing pcbs!
+  📟 I’m currently developing pcbs!
   <br>
   📫 How to reach me: <a href="mailto: josephddang@gmail.com">josephddang@gmail.com</a>
 </p>
