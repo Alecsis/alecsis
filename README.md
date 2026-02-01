@@ -11,7 +11,7 @@
   Hi, I'm Joseph! I'm a home lab enthusiast!
   <br>
   <br>
-  🔬 I'm currently in 10th grade
+  🔬 I'm currently in 11th grade
   <br>
   <br>
   💻 I love learning new ideas!
