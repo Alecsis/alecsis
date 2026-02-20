@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Joseph! I'm a home lab enthusiast!
+ I'm a home lab enthusiast!
   <br>
   <br>
   🔬 I'm currently in 11th grade
